@@ -20,7 +20,7 @@ class whatIneedNow:
 
 <div style="width:50%">
   <a href="https://github.com/alifianadexe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifianadexe&layout=compact&show_icons=true&theme=vue&hide=javascript" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifianadexe&layout=compact&show_icons=true&theme=vue&hide=html" />
   </a>
 </div>
 
