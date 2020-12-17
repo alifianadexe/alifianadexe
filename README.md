@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, Wanna be my Girlfriend ?! 💕
 
 ```python
 class whatIneedNow:
@@ -9,17 +9,22 @@ class whatIneedNow:
     me = whatIneedNow()
 ```
 
-<div style="width:50%">
-  <a href="https://github.com/alifianadexe">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifianadexe&layout=compact&show_icons=true&theme=vue" />
-  </a>
-</div>
 
 <div style="width:50%">
   <a href="https://github.com/alifianadexe">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alifianadexe&show_icons=true&theme=vue&count_private=true" />
   </a>
 </div>
+
+<br>
+
+<div style="width:50%">
+  <a href="https://github.com/alifianadexe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifianadexe&layout=compact&show_icons=true&theme=vue" />
+  </a>
+</div>
+
+
 
 <!--
 **alifianadexe/alifianadexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
