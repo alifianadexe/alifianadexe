@@ -5,8 +5,8 @@ class whatIneedNow:
   def __init__():
     print("I Need Fcking Girl!")
   
-  if __name__ == '__main__':
-    me = whatIneedNow()
+if __name__ == '__main__':
+  me = whatIneedNow()
 ```
 
 
