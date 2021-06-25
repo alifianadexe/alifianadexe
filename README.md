@@ -1,17 +1,25 @@
 ### Hey, Wanna be my Girlfriend ?! 💕
 
 ```python
-class myGoal:
-  def __init__(self, goal):
-    self.goal = goal
-    self.money = null
-    self.reputation = null
+import time
+
+class Me:
+  def __init__(self, money):
+    self.goal = False
+    self.money = 0
+    self.money_a_day = money
     
   def exec():
-    pass
+    while not self.goal:
+       self.money += self.money_a_day
+       time.sleep(86400)
+       if self.money > 7000:
+          self.goal = True
   
 if __name__ == '__main__':
-  me = myGoal()
+  money = 2 # money in dollar($) per day
+  goal = Me(money)
+  goal.exec()
 ```
 
 
